@@ -43,5 +43,5 @@ You can modify the code to do the following:
 * Add more followers
 * Change the follower naming convention
 * Perform other operations on the list of followers, such as sorting or filtering
-# For more information visit this site: [instagram followers]([https://instascenex.com/product-category/instagram/](https://instascenex.com/product-category/instagram/)https://instascenex.com/product-category/instagram/)
+# For more information visit this site: <a href="https://instascenex.com/product-category/instagram/>instagram followers</a>    
 I hope this README file is helpful!
