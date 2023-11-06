@@ -1,7 +1,7 @@
 # Simulate Instagram Followers with Python
 
 This code simulates Instagram followers using a Python list. This is a more ethical and compliant approach than directly interacting with Instagram's systems, which is against their terms of service.
-
+For more information visit this site:   [instagram followers](https://instascenex.com/product-category/instagram/) 
 ## Code
 
 ```python
@@ -43,5 +43,4 @@ You can modify the code to do the following:
 * Add more followers
 * Change the follower naming convention
 * Perform other operations on the list of followers, such as sorting or filtering
-# For more information visit this site: <a href="https://instascenex.com/product-category/instagram/>instagram followers</a>    
 I hope this README file is helpful!
